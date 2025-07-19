@@ -26,3 +26,6 @@ A simple Java-based console application that reads student grade data from a fil
 
 Each line in the **source file** should follow this pattern:
 
+C:\Users\Alex Rivera\Documents\Dev\JavaSmallProjects\StudentGradeCalculator
+
+
